@@ -1,4 +1,4 @@
-# This is LocalRepo Folder .md file
+# This is  Folder .md file
 
 for creating a new branch : git checkout -b branchname
 for move to any branch : git checkout branchname
