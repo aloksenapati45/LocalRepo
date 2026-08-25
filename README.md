@@ -1,0 +1,3 @@
+# This is LocalRepo Folder .md file
+
+This is my first commit....
